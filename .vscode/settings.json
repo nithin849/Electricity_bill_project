@@ -1,0 +1,8 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\mnith\\OneDrive\\Desktop\\web\\mysql-connector-j-8.0.33.jar",
+        "c:\\Users\\mnith\\Downloads\\ResultSet2xml.jar"
+    ]
+}
