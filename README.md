@@ -1,4 +1,32 @@
-                                                Ｅｌｅｃｔｒｉｃｉｔｙ   ｂｉｌｌ   Ｓｙｓｔｅｍ    ｐｒｏｊｅｃｔ
+I understand that the MLH Fellowship tracks primarily require proficiency in JavaScript, TypeScript, Python, or Rust, and that if I have submitted a code sample in another language, I may be asked to provide a supplemental code sample.
+
+# Electricity Billing Management System
+
+## Project Description
+This project is a Java-based desktop application that manages electricity billing and shift systems. It allows users to generate bills, manage customer data, and schedule shifts for maintenance personnel. The application uses Java Swing for the GUI and MySQL for data storage.
+
+## Features
+- Generate and print electricity bills
+- Manage customer accounts
+- Schedule and manage maintenance shifts
+- Real-time updates and notifications
+
+## Technologies Used
+- **Programming Language**: Java
+- **GUI**: Java Swing
+- **Database**: MySQL
+
+## Learning Experience
+In this project, I learned how to design and implement a user-friendly GUI using Java Swing, interact with a MySQL database for CRUD operations, and handle event-driven programming. I also improved my skills in object-oriented programming and software design patterns.
+
+## Contribution
+This project was a collaborative effort. My primary contributions included:
+- Designing and implementing the GUI components using Java Swing.
+- Developing the billing generation and customer management modules.
+- Integrating the MySQL database and writing SQL queries for data manipulation.
+
+## Repository Structure
+Ｅｌｅｃｔｒｉｃｉｔｙ   ｂｉｌｌ   Ｓｙｓｔｅｍ    ｐｒｏｊｅｃｔ
 
 Login frame :
 
