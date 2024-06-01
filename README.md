@@ -1,4 +1,3 @@
-I understand that the MLH Fellowship tracks primarily require proficiency in JavaScript, TypeScript, Python, or Rust, and that if I have submitted a code sample in another language, I may be asked to provide a supplemental code sample.
 
 # Electricity Billing Management System
 
