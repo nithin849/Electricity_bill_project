@@ -27,6 +27,8 @@ This project was a collaborative effort. My primary contributions included:
 ## Repository Structure
 Ｅｌｅｃｔｒｉｃｉｔｙ   ｂｉｌｌ   Ｓｙｓｔｅｍ    ｐｒｏｊｅｃｔ
 
+Screenshots:-
+
 Login frame :
 
 
